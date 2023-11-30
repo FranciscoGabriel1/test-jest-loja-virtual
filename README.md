@@ -41,3 +41,8 @@ O arquivo `backend/.insomnia/Insomnia.json` pode ser importado no Insomnia (API 
 ```
 URL: http://localhost:3366
 ```
+
+## Resultado do Teste 
+
+![image](https://github.com/FranciscoGabriel1/test-jest-loja-virtual/assets/46074137/0d80616e-f8bc-48dc-8ef5-fce0dadd7036)
+
